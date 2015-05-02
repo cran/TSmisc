@@ -1,11 +1,11 @@
-619cf29f58724a118f8361dcdbb63311 *DESCRIPTION
-d8254f2a14feb20532caaab1fa48155e *NAMESPACE
-983dafa1c0b550b339bbee5634f00a9d *NEWS
+464f738e755b5f6dacb5006bff3df30a *DESCRIPTION
+8445f01804aa01a5da55f7c20eb80a9a *NAMESPACE
+6c992ec028e4af387e93c1dde22e32ba *NEWS
 8c752959d3e5a515b597be29cbded41e *R/TSdbiMethods.R
 cd968c812bc3b0664ceab54fc8bac687 *build/vignette.rds
 6fd8939076bd3eb9a5abd0c259378fed *inst/doc/Guide.Stex
 b462c14143a9661c8bf9f42e483f9f7c *inst/doc/Guide.pdf
-33d78ffd460c9976b289f62d287b88c1 *inst/testWithInternet/0serviceCheck-TSxls.R
+d545cc5df198bdf8cc44a73bae73c77f *inst/testWithInternet/0serviceCheck-TSxls.R
 b21e033de33307a52862cec44a63b12e *inst/testWithInternet/Aust.R
 8b82f2c285eeb4dd868a8efb703d995c *inst/testWithInternet/TSzip-tfOnePlotPNG.R
 42e2fd0284ed3a48565a168dfb728179 *inst/testWithInternet/getSymbol-tfOnePlotPNG.R
